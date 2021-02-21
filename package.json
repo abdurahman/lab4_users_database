@@ -1,0 +1,34 @@
+{
+  "name": "lab4_users_database",
+  "version": "1.0.0",
+  "description": "User database using MongoDB, NodeJS, ExpressJS and Mongoose",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdurahman/lab4_users_database.git"
+  },
+  "keywords": [
+    "expressjs",
+    "nodejs",
+    "mongodb",
+    "users",
+    "git"
+  ],
+  "author": "Abdurahman Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdurahman/lab4_users_database/issues"
+  },
+  "homepage": "https://github.com/abdurahman/lab4_users_database#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.17"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
